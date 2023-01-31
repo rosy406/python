@@ -1,0 +1,18 @@
+# Card_quinn.py
+
+print('+------------------------------------------------+')
+print('|     ,,                                         |')
+print('|    >`)                                         |')
+print('|    ( |           Quinn Rosenstock              |')
+print('|     ^            eBird Data Processor          |')
+print('| -------          Cornell Lab of Ornithology    |')
+print('|    _                                           |')
+print('|   ("<                                          |')
+print('|   / )            159 Sapsucker Woods Rd.       |')
+print('|    L             Ithaca, New York 373737       |')
+print('| ---------        birds.cornell.edu             |')
+print('|                                                |')
+print('|                                                |')
+print('|  P: (406) 920-0949   @: quinn@cornell.edu      |')
+print('|                                                |')
+print('+------------------------------------------------+')
